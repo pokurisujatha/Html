@@ -1,0 +1,136 @@
+
+<html>
+<head>
+<style>
+h1{
+text-align:center;
+background-color:lightblue;
+}
+img{
+position:relative;
+left:70%;
+top:-46%;
+width:300px;
+height:300px;
+}
+a{
+position:relative;
+left:55%;
+}
+p{
+position:relative;
+border:5px solid green;
+height:300px;
+}
+button{
+color:gold;
+background-color:red;
+font-size:20px;
+}
+h2{
+positio:relative;
+top:500px;
+text-align:center;
+color:blue;
+}
+.img1{
+border:5px solid green;
+width:300px;
+height:400px;
+}
+.c1{
+border:5px solid black;
+width:200px;
+}
+.naac{
+border:5px solid green;
+}
+Home{
+position:relative;
+top:-80%;
+}
+</style>
+</head>
+<body style="background-color:pink">
+<h1> WELCOME TO AITS COLLEGE</h1>
+<a href="#home">HOME</a>&nbsp &nbsp
+<a href="#about">ABOUT</a>&nbsp &nbsp
+<a href="#contacts">CONTACTS</a>&nbsp &nbsp
+<a href="#naac">NAAC</a>&nbsp &nbsp
+<p><button>WELCOME TO AITS AUTONOMOUS RAJAMPET</button><br>Annamacharya Institute of Technology & Sciences, Rajampet is an AUTONOMOUS institution<br>
+ and is affiliated to JNTU, Anantapur. <br>The institute was started in the year 1998 under the auspices of Annamacharya Educational<br>
+ Trust in picturesque surrounding on a spacious 30 acre campus near Tallapaka, the birth place of Annamacharya, the renowned saint poet.<br>
+The Institute is well located on Hyderabad – Chennai Highway.
+Sri. C. Gangi Reddy garu, Hon’ Secretary of Annamacharya Educational Trust. <br>
+He was born in the year 1954 to Choppa Narayana<br>
+ Reddy and Choppa Rajamma, a farmers family in Siddulapally,<br>
+ very close to Thallapaka the birth place of saint poet Annamacharya.</p>
+<img src="https://aitsrajampet.ac.in/images/gangi-reddy.jpg" width:"300px" height:"300px">
+<h3 id="home">Home</h3>
+<h5>Annamacharya Institute of Technology and Sciences is a private college affiliated with the<br>
+ Jawaharlal Nehru Technological University, Anantapur (JNTUA). Annamacharya Institute of Technology
+ and Sciences, Tirupati offers BE/B.Tech courses at the undergraduate level.</h5>
+<h3 id="about">about</h3>
+<h5> Sri. C. Gangi Reddy garu, Hon’ Secretary of Annamacharya Educational Trust. <br>
+He was born in the year 1954 to Choppa Narayana Reddy and Choppa Rajamma, a farmers 
+family in Siddulapally, very close to Thallapaka the birth place of saint poet Annamacharya. <br>
+He completed his initial education in Thallapaka and then went to Sri Govindarajaswamy Degree College,<br>
+ Tirupathi where he completed his graduation in B.Com. He got his Post Graduate degree Master
+ of Commerce from Sri Venkateswara University, Tirupati in the year 1977. He completed LLB in 1981 <br>
+ through evening college from Osmania University. He started his official career in the department
+ of agriculture immediately after post graduation through APPSC Hyderabad but having got selected through<br>
+ APPSC Group-II immediately joined as Sub Register in the registration department of AP Government.</h5>
+ <h3>contacts</h3>
+ <div class="c1">
+ <h1 id="contacts">contacts</h1>
+ <h5>Principal
+Dr.S.M.V.Narayana<br>
+96666 75279,<br>
+ (08565) 251861<br>
+narayanasama@yahoo.in</h5>
+<h5>Administrative Officer<br>
+N.Subba Reddy<br>
+99486 61275, <br>
+ (08565) 251863,<br>
+nsrreddy1000@gmail.com</h5>
+<h5>AAO : Admissions<br>
+98489 98641, <br>
+(08565) 251863</h5>
+<h5> Incharge – Scholarships<br>
+B.Kuppaiah<br>
+98482 86975, <br>
+nsraits@gmail.com
+</h5>
+<h5>Superintendent<br>
+M.Mohan Raju<br>
+98488 85491,<br>
+  (08565) 251862<br>
+mmrajuaits@gmail.com</h5>
+</div>
+<h3>NAAC</h3>
+<div class="naac">
+<h2 id="naac">NAAC</h2>
+<h3>IIQA<br>
+SSR<br>
+CRITERION 1<br>
+CRITERION 2<br>
+CRITERION 3<br>
+CRITERION 4<br>
+CRITERION 5<br>
+CRITERION 6<br>
+CRITERION 7<br>
+EXTENDED PROFILE<br>
+DVV CLARIFICATION<br>
+BEST PRACTICES<br>
+HR POLICY MANUAL<br>
+AWARDS AND RECOGNITION<br>
+ENVIRONMENTAL ACTIVITIES<br>
+STAKE HOLDERS FEEDBACK<br>
+INSTITUTIONAL DISTINCTIVENESS<br>
+DISABLED FRIENDLY CAMPUS<br>
+CAPACITY BUILDING AND SKILL ENHANCEMENT<br>
+INTERNAL AND EXTERNAL AUDIT</h3>
+</div>
+</body>
+</html>
+ 
